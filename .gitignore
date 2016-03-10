@@ -1,5 +1,8 @@
 *.class
 
+# Resources Folders #
+res/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
