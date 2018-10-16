@@ -1,3 +1,3 @@
-# Java.Applications.ApprenticePainter
+# PaintR
 
 As accustomed to using CAD software, I've always wondered how they work internally. Hence this project...
